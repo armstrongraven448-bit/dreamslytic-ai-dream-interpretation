@@ -1,6 +1,5 @@
 # dreamslytic-ai-dream-interpretation
-Free AI-powered Dream Interpretation tool to analyze dream meanings instantly.
-# Dreamslytic – Free AI Dream Interpretation Tool
+Free AI-powered Dream Interpretation tool to analyze dream meanings.
 
 Dreamslytic is a free AI-powered Dream Interpretation 
 platform that helps users analyze and understand the 
